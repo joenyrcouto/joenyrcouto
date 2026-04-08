@@ -1,16 +1,24 @@
-## Hi there 👋
+### 🛠️ Arquitetura de Conhecimento ([Digital Brain](joenyrcouto.github.io/brain))
 
-<!--
-**joenyrcouto/joenyrcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O processo de aprendizagem é **recursivo e atômico**, estruturado em um ecossistema **PKM (Obsidian)** voltado à eficiência executiva:
 
-Here are some ideas to get you started:
+| Camada | Funcionalidade | Objetivo Sistêmico |
+| :--- | :--- | :--- |
+| **`00_Captura`** | Input de Baixa Fricção | Retenção de pensamentos voláteis e estímulos brutos. |
+| **`01_NotebookLM`** | Workspace Dialógico | Interface de trabalho ativa e síntese assistida. |
+| **`02_Permanentes`** | Atomização Autoral | Consolidação de conceitos específicos e perenes. |
+| **`03_MOCs`** | Mapas de Conteúdo | Rearranjo modular e visão macroscópica de domínios. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧬 Matriz de Competências
+
+* **Eixos de Especialidade**: 
+    * `Modelagem Matemática` • `Engenharia Reversa de Problemas Complexos` • `Pensamento Sistêmico Recursivo`.
+* **Linhas de Pesquisa**: 
+    * `Biologia Matemática` • `Psicopatologia Quantitativa` • `Sistemas Lógicos`.
+
+---
+
+> [!QUOTE] Berserk: Fatalismo e Perseverança
+> *"Você continua a empunhar sua espada, mesmo sabendo que a morte é seu único destino."*
