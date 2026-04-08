@@ -22,5 +22,3 @@ O processo de aprendizagem é **recursivo e atômico**, estruturado em um ecossi
 
 > [!QUOTE] Berserk: Fatalismo e Perseverança
 > *"Você continua a empunhar sua espada, mesmo sabendo que a morte é seu único destino."*
-
-![Estatísticas do GitHub](https://vercel.app)
