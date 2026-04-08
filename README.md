@@ -13,10 +13,11 @@ O processo de aprendizagem é **recursivo e atômico**, estruturado em um ecossi
 
 ### 🧬 Matriz de Competências
 
-* **Eixos de Especialidade**: 
+* **Formações em status**: `Técnico de Infórmatica (Cloncluído — IFRJ do Arraial do Cabo)` • `Física Biomolecular (Em curso — USP de São Carlos)`.
+* **Interesses alheios**: 
     * `Modelagem Matemática` • `Engenharia Reversa de Problemas Complexos` • `Pensamento Sistêmico Recursivo`.
-* **Linhas de Pesquisa**: 
-    * `Biologia Matemática` • `Psicopatologia Quantitativa` • `Sistemas Lógicos`.
+* **Interesses em foco**: 
+    * `Quarto` • `Typst` • `Julia` • `neurociência` • `SLMs`.
 
 ---
 
