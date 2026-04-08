@@ -1,6 +1,8 @@
-### 🛠️ Arquitetura de Conhecimento ([Digital Brain](joenyrcouto.github.io/brain))
+Analise:
 
-O processo de aprendizagem é **recursivo e atômico**, estruturado em um ecossistema **PKM (Obsidian)** voltado à eficiência executiva:
+### 🛠️ Arquitetura de Conhecimento ([brain](joenyrcouto.github.io/brain))
+
+Um processo de aprendizagem **recursivo e atômico**, estruturado em um ecossistema **PKM (Obsidian)** voltado à eficiência executiva:
 
 | Camada | Funcionalidade | Objetivo Sistêmico |
 | :--- | :--- | :--- |
@@ -11,15 +13,10 @@ O processo de aprendizagem é **recursivo e atômico**, estruturado em um ecossi
 
 ---
 
-### 🧬 Matriz de Competências
+### 🧬 Matriz de Interesses
 
-* **Formações em status**: `Técnico de Infórmatica (Cloncluído — IFRJ do Arraial do Cabo)` • `Física Biomolecular (Em curso — USP de São Carlos)`.
-* **Interesses alheios**: 
-    * `Modelagem Matemática` • `Engenharia Reversa de Problemas Complexos` • `Pensamento Sistêmico Recursivo`.
-* **Interesses em foco**: 
-    * `Quarto` • `Typst` • `Julia` • `neurociência` • `SLMs`.
+* **Interesses alheios**: `modelagem ciêntífica` • `engenharia Reversa` • `sistemas Complexos`.
+* **Interesses em foco**: `Quarto` • `Julia` • `Linux` • `Ciência` • `SLMs` • `autogestão`.
+* **Formações**: `TI — Cursado no IFRJ` • `Física Biomolecular — Cursando na USP`.
 
----
-
-> [!QUOTE] Berserk: Fatalismo e Perseverança
-> *"Você continua a empunhar sua espada, mesmo sabendo que a morte é seu único destino."*
+> *"Quando estiveres a beira do desespero, apenas os que se levantarem com espada em punho, mesmo que partida ao meio, se salvarão [...]"*
