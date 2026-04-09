@@ -10,17 +10,6 @@
   <img src="https://img.shields.io/badge/Contact-@joenyrcouto-1DA1F2?logo=twitter&logoColor=white" alt="twitter"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Modelagem-Cient%C3%ADfica-FF6B6B" />
-  <img src="https://img.shields.io/badge/Engenharia_Reversa-6BCB77" />
-  <img src="https://img.shields.io/badge/Sistemas_Complexos-6B8EE7" />
-  <img src="https://img.shields.io/badge/Quarto-%237B61FF" />
-  <img src="https://img.shields.io/badge/Julia-EA4AAA" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SLMs-FFB86B" />
-  <img src="https://img.shields.io/badge/Autogest%C3%A3o-F7E059" />
-</p>
-
 ---
 
 ## 🔭 Sobre / Analise
@@ -42,6 +31,16 @@
     </div>
   </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Modelagem-Cient%C3%ADfica-FF6B6B" />
+  <img src="https://img.shields.io/badge/Engenharia_Reversa-6BCB77" />
+  <img src="https://img.shields.io/badge/Sistemas_Complexos-6B8EE7" />
+  <img src="https://img.shields.io/badge/Quarto-%237B61FF" />
+  <img src="https://img.shields.io/badge/Julia-EA4AAA" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLMs-FFB86B" />
+  <img src="https://img.shields.io/badge/Autogest%C3%A3o-F7E059" />
+</p>
 
   | Camada | Funcionalidade | Objetivo Sistêmico |
   | :--- | :--- | :--- |
