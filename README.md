@@ -1,6 +1,6 @@
 <!-- Header animado + badges -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk5ZXM4YzI4YmFuOHcxdnozeXV2NGp6OGJ2czdmbzd0bzZ0NzZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/suh0WnHkj66fV9bOyx/giphy.gif" alt="@Polygon1993" width="300"/>
+  <img src="https://media1.tenor.com/m/1tRx26nXduYAAAAC/ber.gif" alt="@Polygon1993" width="498"/>
 </p>
 
 <p align="center">
