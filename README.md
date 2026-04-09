@@ -13,7 +13,7 @@
 ---
 
 ## 🔭 Sobre / Analise
-&nbsp;&nbsp;&nbsp;&nbsp;Um processo de aprendizagem recursivo e atômico, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva. Aqui transformo ideias voláteis em conhecimento reutilizável.
+&nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em um processo de aprendizagem recursivo e atômico, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva. Aqui transformo ideias voláteis em conhecimento reutilizável.
 
 ---
 
