@@ -23,7 +23,7 @@
     <a href="https://joenyrcouto.github.io/brain"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRxanNqYTJ5YnozNjhjd3M3bXpkMnNiaTZ1ZDJuZDBzMXRyM2NybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WnCVJZqLBkM42IUJZs/giphy.gif" alt="@parthkothekar" width="160" />
     <div></a>
       <p>
-        Cérebro do Couto, não toque nele ⚠
+        Cérebro do Couto. Não toque nele! ⚠
       </p>
     </div>
   </div>
