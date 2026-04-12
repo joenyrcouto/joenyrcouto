@@ -10,14 +10,11 @@
   <img src="https://img.shields.io/badge/Contact-@joenyrcouto-1DA1F2?logo=twitter&logoColor=white" alt="twitter"/>
 </p>
 
----
-
-## 🔭 Sobre / Analise
-&nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em um processo de aprendizagem recursivo e atômico, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva. Aqui transformo ideias voláteis em conhecimento reutilizável.
+&nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em conhecimento e produção científica estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva pessoal.
 
 ---
 
-## 🛠️ Arquitetura de Conhecimento
+## 🛠️ Arquitetura de Conhecimento Pessoal
 <details>
   <summary><strong>Abra aqui</strong></summary>
 
@@ -26,7 +23,7 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRxanNqYTJ5YnozNjhjd3M3bXpkMnNiaTZ1ZDJuZDBzMXRyM2NybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WnCVJZqLBkM42IUJZs/giphy.gif" alt="@parthkothekar" width="160" />
     <div>
       <p>
-        Arquitetura de Conhecimento<a href="https://joenyrcouto.github.io/brain"> (joenyrcouto/brain)</a>
+        Conhecimento privado: <a href="https://joenyrcouto.github.io/brain"> joenyrcouto/brain</a>
       </p>
     </div>
   </div>
@@ -44,10 +41,10 @@
 
   | Camada | Funcionalidade | Objetivo Sistêmico |
   | :--- | :--- | :--- |
-  | 🔰 <strong>00_Captura</strong> | Input de Baixa Fricção | Retenção de pensamentos voláteis e estímulos brutos. |
-  | 🧪 <strong>01_NotebookLM</strong> | Workspace Dialógico | Interface de trabalho ativa e síntese assistida. |
-  | 📚 <strong>02_Permanentes</strong> | Atomização Autoral | Consolidação de conceitos específicos e perenes. |
-  | 🗺️ <strong>03_MOCs</strong> | Mapas de Conteúdo | Rearranjo modular e visão macroscópica de domínios. |
+  | 🔰 <strong>00 Captura</strong> | Input de Baixa Fricção | Retenção de pensamentos voláteis e estímulos brutos. |
+  | 🧪 <strong>01 NotebookLM</strong> | Workspace Dialógico | Interface de trabalho ativa e síntese assistida. |
+  | 📚 <strong>02 Permanentes</strong> | Atomização Autoral | Consolidação de conceitos específicos e perenes. |
+  | 🗺️ <strong>03 MOCs</strong> | Mapas de Conteúdo | Rearranjo modular e visão macroscópica de domínios. |
 </div>
 
 </details>
