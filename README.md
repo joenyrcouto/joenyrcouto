@@ -12,9 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em conhecimento e produção científica, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva pessoal.
 
----
-
 ## 🛠️ Arquitetura de Conhecimento Pessoal
+
 <details>
   <summary><strong>Abra aqui</strong></summary>
 
