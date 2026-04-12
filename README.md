@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Contact-@joenyrcouto-1DA1F2?logo=twitter&logoColor=white" alt="twitter"/>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em conhecimento e produção científica, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva pessoal.
+&nbsp;&nbsp;&nbsp;&nbsp;Perfil focado em conhecimento e produção científica, estruturado em um ecossistema PKM (Obsidian) voltado à eficiência executiva pessoal. [Conteúdo público](https://github.com/joenyrcouto/scientific-summary)
 
-## 🛠️ Arquitetura de Conhecimento Pessoal
+## 🛠️ Arquitetura de Conhecimento Privada
 
 <details>
   <summary><strong>Abra aqui</strong></summary>
